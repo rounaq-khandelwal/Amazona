@@ -6,3 +6,4 @@
 2. Tools
 3. Create react application
 4. Create git repository
+5. Add Products
