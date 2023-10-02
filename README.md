@@ -32,3 +32,7 @@
    4. use effect hook
    5. use reducer hook
       //Note - (localhost port was set to 3001 for resolving error 431 axios)
+9. Manage state by Reducer Hook
+   1. define reducer
+   2. update fetch data
+   3. get state from useReducer
