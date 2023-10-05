@@ -37,5 +37,5 @@
    2. update fetch data
    3. get state from useReducer
 10. Add bootstrap UI framework
-    -> npm i react-bootstrap bootstrap
-    -> update App.js and index.js
+   1. npm i react-bootstrap bootstrap
+   2. update App.js and index.js
