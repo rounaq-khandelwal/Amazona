@@ -35,20 +35,14 @@
 9. Manage state by Reducer Hook
    1. define reducer
    2. update fetch data
-   3. get state from useReducer 
+   3. get state from useReducer
 10. Add bootstrap UI framework
     1. npm i react-bootstrap bootstrap
-<<<<<<< HEAD
-    2. update App.js
-11. Create Product and Rating Component
-    1. create Rating component
-    2. Create Product component
-    3. Use Rating component in Product component
-=======
     2. update App.js and index.js
 11. Create product and rating component
     1. create rating component
     2. create product component
     3. use rating component in product component
-         
->>>>>>> a951a62160935afb042cbd0d0745991de56c3c9b
+12. Create Product Details Screen
+    1. fetch product from backend
+    2. create 3 columns for image, info and action
